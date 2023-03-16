@@ -145,7 +145,10 @@
 
 ### day13
 
+术后第十三天
 
+<img src="./images/day13_01.jpg" alt="day12_01" width="400px"  />
+<img src="./images/day13_02.jpg" alt="day12_02" width="400px"  />
 
 ### day14
 ### day15
