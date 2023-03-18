@@ -147,10 +147,23 @@
 
 术后第十三天
 
-<img src="./images/day13_01.jpg" alt="day12_01" width="400px"  />
-<img src="./images/day13_02.jpg" alt="day12_02" width="400px"  />
+<img src="./images/day13_01.jpg" alt="day13_01" width="400px"  />
+<img src="./images/day13_02.jpg" alt="day13_02" width="400px"  />
 
 ### day14
+
+术后第十四天
+
+<img src="./images/day14_01.jpg" alt="day14_01" width="400px"  />
+<img src="./images/day14_02.jpg" alt="day14_02" width="400px"  />
+
 ### day15
+
+术后第十五天
+
+<img src="./images/day15_01.jpg" alt="day15_01" width="400px"  />
+<img src="./images/day15_02.jpg" alt="day15_02" width="400px"  />
+
+
 
 
