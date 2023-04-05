@@ -164,6 +164,80 @@
 <img src="./images/day15_01.jpg" alt="day15_01" width="400px"  />
 <img src="./images/day15_02.jpg" alt="day15_02" width="400px"  />
 
+### day16
+
+术后第十六天
+
+<img src="./images/day16_01.jpg" alt="day15_01" width="400px"  />
+<img src="./images/day16_02.jpg" alt="day15_02" width="400px"  />
+
+### day17
+
+术后第十七天
+
+<img src="./images/day17_01.jpg" alt="day17_01" width="400px"  />
+
+### day18
+
+术后第十八天
+
+<img src="./images/day18_01.jpg" alt="day18_01" width="400px"  />
+
+
+### day19
+
+术后第十九天
+
+<img src="./images/day19_01.jpg" alt="day19_01" width="400px"  />
+
+### day20
+
+术后第二十天
+
+<img src="./images/day20_01.jpg" alt="day20_01" width="400px"  />
+
+
+
+### day22
+
+术后第二十二天
+
+<img src="./images/day22_01.jpg" alt="day22_01" width="400px"  />
+
+
+
+### day24
+
+术后第二十四天
+
+<img src="./images/day24_01.jpg" alt="day24_01" width="400px"  />
+
+### day25
+
+术后第二十五天
+
+<img src="./images/day25_01.jpg" alt="day25_01" width="400px"  />
+
+### day26
+
+术后第二十六天
+
+<img src="./images/day26_01.jpg" alt="day26_01" width="400px"  />
+
+### day27
+
+术后第二十七天
+
+<img src="./images/day27_01.jpg" alt="day27_01" width="400px"  />
+
+### day28
+
+术后第二十八天
+
+<img src="./images/day28_01.jpg" alt="day28_01" width="400px"  />
+
+
+
 
 
 
